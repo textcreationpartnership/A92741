@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True and good news from Brussels. Containing a soveraigne antidote against the poysons, and calumnies of the present time. In a letter from a person of great quality there, to this friend in England.</title>
+            <author>W. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92741</idno>
+            <idno type="STC">Wing S205</idno>
+            <idno type="STC">Thomason E1019_12</idno>
+            <idno type="STC">ESTC R208295</idno>
+            <idno type="EEBO-CITATION">99867255</idno>
+            <idno type="PROQUEST">99867255</idno>
+            <idno type="VID">168844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168844)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1019[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True and good news from Brussels. Containing a soveraigne antidote against the poysons, and calumnies of the present time. In a letter from a person of great quality there, to this friend in England.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.S.</note>
+                  <note>Annotation on Thomason copy: "April. 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168844:1" rendition="simple:additions"/>
+            <p>True and good News from Bruſſels.</p>
+            <p>Containing A SOVERAIGNE ANTIDOTE Againſt the POYSONS, AND CALUMNIES Of the preſent time.</p>
+            <p>In a <hi>Letter</hi> from a <hi>Perſon</hi> of great <hi>Quality</hi> there, to his Friend in <hi>England.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON: Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168844:2"/>
+            <pb n="3" facs="tcp:168844:2"/>
+            <head>True and good News from <hi>Bruſſels.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Return you many thanks for your Letter, and News, and par<g ref="char:EOLhyphen"/>ticularly for the accompt you give me of Generall <hi>Lockhart;</hi> I ever took him for a Gentleman, and, indeed, the <hi>King</hi> himſelfe, hath alwayes eſteemed him one of his faireſt Enemies; Inſomuch, as it would have troubled many here, who never ſaw him, if he ſhould publickly have borne witneſſe to ſo mechanick a ſlander, as that of ſeeing his Majeſty at Maſſe: Truly, the Devill had ſound out an ill Father for ſuch a Brat, and therefore, I hope, it will now lye at his own Doore. It was very unlikely, that a Perſon of his ho<g ref="char:EOLhyphen"/>nour, ſhould be guilty of ſo foule, or a Man of his wit, of ſo lame a calumny; Wherein to verify his ſtate, he muſt, at once render himſelfe, a baſe ſpie, and a falſe Proteſtant, for what other account ſhould bring him into Spaniſh Townes, and Popiſh Churches? I read that part of your Letter to the <hi>King,</hi> and could not but ob<g ref="char:EOLhyphen"/>ſerve his ſmile, it was ſo grave, and full of Reſentment; (for no<g ref="char:EOLhyphen"/>thing, you know, is more naturall to him, then dumb Rhetorick:) At preſent, he ſaid little, but three houres after, made many reflecti<g ref="char:EOLhyphen"/>ons both witty, and ſerious: He ſaid, his Enemies were now put to hard ſhifts, and he took it for a good Omen, that, already, for want of better Weapons, they fought with ſuch Bullruſhes; That they had timed it very well, and very ill; Well, for themſelves, that related it; But ill for others, that were to beleive it: Since, for more then ten years paſt, whilſt they were confident of their own Power, they had uſed no Arguments againſt him, but Bullets, and were much unconcerned in his Religion, whether it were <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> or <hi>Mahumetan;</hi> But now, juſt now, in this Criſis of affaires,
+<pb n="4" facs="tcp:168844:3"/>when their cauſe is, manifeſtly withering, and his hopes, budding,) leaſt the Nation ſhould, otherwiſe, think of reſtoring him, he who profoundly diſſembled all thi while, choſe, it ſeemes, ſo op<g ref="char:EOLhyphen"/>portune a juncture, for his profeſſion of Popery, being in love with baniſhment, and having, no doubt, therein conſulted with his deare friends Mr. <hi>Scot,</hi> and <hi>Marchamont Needham;</hi> that, indeed, it is not the part of fair enemies to take ſuch advantage of their own wrong, by firſt driving him to ſeek Protection from Papiſts, and then, upon no other account imaginable, reporting him a Papiſt; that, yet, he ſubmits, with all patience, to the good will of God, ſince he ſees, he muſt taſte of his Fathers Cup, whoſe lot it was to be branded by Proteſtants, for a ſuſpected Papiſt, and ruined by Jeſuites, as a perſevering Proteſtant: Theſe were his Maje<g ref="char:EOLhyphen"/>ſties own Comments upon the text, and better cannot be added; yet, being a debt equally due to his owne great vertue, and the ſatisfaction of all that deſire, and are willing to be ſatis<g ref="char:EOLhyphen"/>fied, I cannot, but, upon my owne knowledge, atteſt, that he is not onely a ſincere profeſſor, but an approved Champion of the Proteſtant Religion, and devoted Son of the Church of <hi>England,</hi> yet, with much moderation of Judgement and candour of mind to<g ref="char:EOLhyphen"/>wards thoſe that differ from him; eſpecially in matters, and outward diſcipline, and many pregnant inſtances I could give you, both of his ſtrictneſſe in the one, and largeneſſe in the other, if I thought it needfull, or that his converſation, and what he hath done, and ſuffered upon theſe accounts, were not better evidence for him, then any thing, that I ſhould ſay; but, I feare, I have too much honoured ſo ſilly a detraction.</p>
+            <p>Your encloſed Pamphlet of newes from <hi>Bruſſells</hi> is more con<g ref="char:EOLhyphen"/>ſiderable, as having a deeper roote, and more colour, though not in it ſelfe, yet in the feares of thoſe, whom it would ſeeme to concerne, for the wounds of guilt are hardly to be cured, or ſearch<g ref="char:EOLhyphen"/>ed by any Chirurgery, and the fiend of an evil conſcience is too ſubtle
+<pb n="5" facs="tcp:168844:3"/>for exorciſmes, not is it in the power of clemency to pardon thoſe, that will however arraigne themſelves, and who think their ſafety conſiſts not with the being of him, from whom, otherwiſe, they might expect it: with ſuch perſons, even promiſes are threats, they having ſuggeſted to themſelves, that they ought as much to feare the ſnare of moderation, as the Gibbet of ſeverity, both of them contrived and erected in their own breſts; but theſe, I truſt, are few, and I can freely ſay, it muſt be their owne fault, if there be any; for, I am confident, it is, yet, in the power of the great<g ref="char:EOLhyphen"/>eſt criminall to baile himſelf, and none will finally prove guilty, but the implacable, his Majeſty deſiring above all things, herein, to imitate, the goodneſſe of God, who willeth no mans deſtructi<g ref="char:EOLhyphen"/>on, and freely giveth to thoſe that ask: as for ſuch as pronounce againſt themſelves, that their ſins are greater, then can be par<g ref="char:EOLhyphen"/>doned, let them, with <hi>Cain,</hi> flye into the Land of <hi>Nod,</hi> let the Authour of this Pamphlet and his confederates, diſpoſe of them<g ref="char:EOLhyphen"/>ſelves to their beſt ſecurity, let ſuch furies vent their Diabolicall rage; but let not others, who may be innocent, if they pleaſe, chuſe rather to be guilty.</p>
+            <p>I have often ſaid of late, that Mr. <hi>Needham</hi> would yet once more, before he dyed write for the Cavaliers, and ſee how ſoon my prophecy is fulfilled; the Stile, language and ſenſe are purely his, certainly, it was ſome ſuch precious Saint, a <hi>Cain</hi> for Innocency, a <hi>Balaam</hi> for Integrity, A <hi>Judas</hi> for Loyalty, a <hi>Corah</hi> for Allegiance, and for Chriſtian Prudence, an <hi>Achitophel,</hi> that compiled this Creed for reprobates; no novice, or ſingle ſinner could arrive at ſuch perfection, it muſt be a Vaterane, and an Apo<g ref="char:EOLhyphen"/>ſtat to boote: he is, I perceive, moſt religiouſly ſenſible of the Pilgrimage, he owes to TIBURNE, and can never reſt, till he have paid his vowes, and offered himſelfe at that ſhrine.</p>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e frontiſpeice is very obſervable, being for the greater mockery &amp;
+<pb n="6" facs="tcp:168844:4"/>Impoſture, adorned with a Crown, and authoriſed with the ſtile of his <hi>Majeſty,</hi> who muſt, it ſeems, be betrayed with a Kiſſe, Crucifi<g ref="char:EOLhyphen"/>ed with a ſolemne inſcription, and murthered, as it were, before <hi>White-hall;</hi> But I much marveyle, the reverend Authour ſhould impute the publiſhing of it to caſualty, and not rather entitle Re<g ref="char:EOLhyphen"/>velation or Providence to his excellent myſteries, He had precedents enough in the Caſe, and perhaps, in the language of the Saints, (who cannot, now, pick a Pocket, but in Gods name) it had been moſt agreeable to truth.</p>
+            <p>A ſpeciall Act of Providence, indeed, it was, that made a neer attendant on his Majeſties Perſon, write ſo perfectly the ſenſe of Sir <hi>Arthur Hazlerigge,</hi> and Mr. <hi>Scot,</hi> that, (without a Counter<g ref="char:EOLhyphen"/>revelation) one would almoſt ſweare, that, whilſt the poor Cavaleer wrote, they guided his Pen; Were they now ſuch Princes, as late<g ref="char:EOLhyphen"/>ly they were, in the RUMP, I ſhould judge, they had wracked Him, but that his Confeſſion ſhould be ſo voluntary, ſo ſeaſonable, and, withall, ſo ample, is almoſt as great a Miracle, as the diſcovery of a trepaning Plot.</p>
+            <p>This ſurely, may ſerve for a uſe of conſolation to the godly, what need they fear any danger, at home, or abroad? Let them diſcharge their Spies and Intelligencers, &amp; enjoy the quiet ſleep of a good con<g ref="char:EOLhyphen"/>ſcience; you ſee how their enemies betray their own councels; they are all infatuated, and bereft of underſtanding, their beſt States<g ref="char:EOLhyphen"/>men have not a Character left to conceale the deepeſt myſteries, but muſt, it ſeemes, reſort to Sir <hi>C. C.</hi> for Sir <hi>Charles Coote,</hi> and obſcure their malice onely with Allegories, as tranſparent, as tif<g ref="char:EOLhyphen"/>fany, or Chriſtall; errand Woodcocks, no doubt, that think their bodies ſafe, if they can but hide their heads.</p>
+            <p>I preſume, there needs no ſerious argument to prove it ſpu<g ref="char:EOLhyphen"/>rious, every ſillable ſmells of Gunpowder, every line Proclaimes him a Toad, that could ſpit ſuch venome, the contrivance is the quinteſſence of Jeſuitiſme, and King-killing malice; the Pub<g ref="char:EOLhyphen"/>liſher
+<pb n="7" facs="tcp:168844:4"/>himſelfe, I ſuppoſe, doth not expect it ſhould be beleived, it ſerves his turn, if it be but read; for he thinks if it make no report, it will at leaſt give an Alarme, and though the hiſtory be not admitted, the morall may.</p>
+            <p>To particulars, I will not deſcend, they are ſome of them ſo ſcurrilous, all ſo malicious that I feare, leaſt I ſhould ſeem to aſſiſt or abet ſuch calumnies; But in generall, let me aſſure you, his Majeſty hath no ſuch neere attendants, as this would per<g ref="char:EOLhyphen"/>ſonate, no ſuch fiends haunt his Perſon, or Court, his Privy-Coun<g ref="char:EOLhyphen"/>cell is known to be entirely Proteſtant, never ſuſpected of the contrary, truely <hi>Engliſh,</hi> no leſſe faithfull to the Nations intereſt, then the Kings, and ſuch as never knew how to ſeparate the ſervice of their Country from that of their Prince; for two of the principall, I dare anſwer, that the burthen of their ſong now is, as it hath alwayes been, Sir we beſeech you, make your peace, if you can, and leave us out, for we are not conſiderable in the caſe; all their Counſells have been ſuitable to their profeſſions, conſtantly re<g ref="char:EOLhyphen"/>jecting the numerous proffers of powerfull aid from forreigne Princes, upon inconvenient termes; his Majeſty himſelfe is known to be a Prince of a moſt ſincere, and Noble nature, the true Son of that Father who recommended to him thoſe divine precepts and prin<g ref="char:EOLhyphen"/>ciples of charity, clemency, and moderation, the true Grand-Son of that Grand-Father, who by receiving, nay advancing his reclaim<g ref="char:EOLhyphen"/>ed enemies, and by obſerving all the agreements he made, as a King, no leſſe punctually, then he did articles of war, as a Gene<g ref="char:EOLhyphen"/>rall hath, in ſome meaſure, ſtopped the mouthes of our deſperados, nay hath taught the world, that great provocations may be forgot<g ref="char:EOLhyphen"/>ten, great Records cancelled, great Errors favourably cenſured, and that the word of a King is of more value, then the oath of a Com<g ref="char:EOLhyphen"/>mon-wealths-man.</p>
+            <p>The generality of our Courtiers, and viſitants, who, now, be<g ref="char:EOLhyphen"/>gin to appeare in great numbers, are, (excepting a few light fel<g ref="char:EOLhyphen"/>lowes,
+<pb n="8" facs="tcp:168844:5"/>looked upon, as the chaffe or dregs of the party, and, rather for hoſpitalities ſake, not excluded, then, for friendſhip, admitted) very moderate, and apt (as Courtiers commonly are) to receive Impreſſions from their Prince, ſo as nothing is diſcourſed in out Cabales, but the healing of Breaches, the neceſſity of unfeigned re<g ref="char:EOLhyphen"/>concilement with the true Presbyterian, the danger of a faithleſſe and hollow-hearted Union, the hazard of deſtruction to the Nati<g ref="char:EOLhyphen"/>on; but certainly of ruine to our ſelves, if through our ſpleen or obſtinacy, once more, we relapſe, into a ſtate of Warre; the chief deſigne of the time and place is to ſet on foot an intereſt, truly na<g ref="char:EOLhyphen"/>tionall, and comprehenſive, as much, as may be, of all intereſts, not ſuch a one, as ſhall gratifie any one party to the prejudicing, or diſobliging of others; Perſons of mixed Principles are chiefly che<g ref="char:EOLhyphen"/>riſhed, ſuch as ſpeak the language of our Pamphleteer, have the Brand of Incendiaries, and Emiſſaries; I could heartily wiſh, that you in <hi>England</hi> did ſo well diſtinguiſh, and mark them all for right Pageants, who ſerve the RUMP in the <hi>Kings</hi> Livery.</p>
+            <p>But I fear I have already exceeded the lawfull bounds of a Letter, and therefore muſt conclude, I pray preſent my ſervice to our We<g ref="char:EOLhyphen"/>ſtern friends, and faile not to give me the firſt, and moſt particular accompt you can of Elections, for they are the moſt important newes, the ſeaſon can afford, till the ſitting of the next Parliament.</p>
+            <closer>I remaine,
+<salute>SIR,</salute> 
+               <signed>Your true, and affectionate friend to ſerve you. W. S.</signed>
+               <dateline>Bruſſels, <date>March 20th. S. V. 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
